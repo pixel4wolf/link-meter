@@ -1,0 +1,2 @@
+-- link-meter — minimal Lua helper module
+-- Author: @pixel4wolf
